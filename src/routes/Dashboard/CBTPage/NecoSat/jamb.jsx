@@ -47,7 +47,6 @@ const JAMB = () => {
 	};
 
 	useEffect(() => {
-		console.log({ modeContext });
 		onIntialLoad();
 	},[]);
 
